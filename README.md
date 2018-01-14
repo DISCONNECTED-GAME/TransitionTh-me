@@ -1,2 +1,2 @@
-# TransitionTh-me
-En: When you move the mouse on the server on the left, the icon of this one transits forward. This is just one of the many features of this theme. Fr: Lorsque vous déplacez la souris sur le serveur à gauche, l'icône de celui-ci transite vers l'avant. C'est juste une des nombreuses caractéristiques de ce thème.
+en: paste the contents of the other file into the text space of the "Custom CSS" tab.
+fr: coller le contenu de l'autre fichier dans l'espace texte de l'onglet "CSS personnalisé".
